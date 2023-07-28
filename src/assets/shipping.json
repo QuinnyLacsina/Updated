@@ -1,0 +1,15 @@
+[
+    {
+      "type": "Same Day",
+      "price": 25.99
+    },
+    {
+      "type": "2-Day",
+      "price": 15.99
+    },
+    {
+      "type": "Regular",
+      "price": 5.99
+    }
+  ]
+  
